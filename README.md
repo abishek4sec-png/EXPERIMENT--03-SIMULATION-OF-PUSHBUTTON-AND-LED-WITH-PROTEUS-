@@ -99,13 +99,15 @@ else
 
 
 ## Output screen shots of proteus  :
-<img width="1317" height="952" alt="Screenshot 2026-02-14 101159" src="https://github.com/user-attachments/assets/aa220879-3280-4136-a185-2396aa80d64e" />
+<img width="1055" height="874" alt="Screenshot 2026-02-14 103515" src="https://github.com/user-attachments/assets/84b1c213-8389-4823-8010-2cb30b19884d" />
+
 
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- <img width="1203" height="834" alt="cd" src="https://github.com/user-attachments/assets/5121bdca-ab65-4fad-82a3-5f0e62365114" />
+
+<img width="932" height="851" alt="cd" src="https://github.com/user-attachments/assets/8d444a3f-fb87-4954-9059-d603b5914d0b" />
 
  
  
